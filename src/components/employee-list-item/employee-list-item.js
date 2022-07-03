@@ -1,4 +1,4 @@
-
+import './employee-list-item.css'
 
 
 const EmployeeListItem = () => {
